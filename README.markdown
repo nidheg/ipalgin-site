@@ -1,5 +1,5 @@
-# Ruby on Rails Tutorial: первое приложение
+# Сайт-Визитка небольшой фирмы
 
-Это первое приложение для
+В основе свое является учебной практикой по Ruby
 [*Ruby on Rails Tutorial: Изучение Rails на Примерах*](http://railstutorial.org/)
- [Майкл Хартл](http://michaelhartl.com/).
+ [Альгин Нидхег Максим].
